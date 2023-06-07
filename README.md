@@ -3,7 +3,7 @@
 
 I am a passionate data analyst with a keen eye for detail and a drive for extracting meaningful insights from complex datasets. My goal is to leverage data to drive informed decision-making and contribute to business success.
 
-With over 8 years of experience in the veterinary field and customer service, I bring a unique perspective to data analysis, combining my expertise in patient care with analytical skills. I have a Bachelor's degree in Health Science from California State University, Fullerton, and I am currently pursuing a Data Analyst Professional program from Practicum Online Bootcamp.
+With over 8 years of experience in the veterinary field and customer service, I bring a unique perspective to data analysis, combining my expertise in patient care with analytical skills. I have a Bachelor's degree in Health Science from California State University, Fullerton, and I am a recent graduate from the Data Analyst Professional program from Practicum Online Bootcamp.
 
 In my professional journey, I have developed a strong proficiency in Python, SQL, and data visualization tools such as Tableau. I am experienced in conducting exploratory data analysis, identifying trends, and providing actionable insights. 
 
