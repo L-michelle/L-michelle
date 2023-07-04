@@ -18,5 +18,5 @@ I am excited about the endless possibilities that data analysis offers and the p
 📊 Data Analysis | 🐍 Python | 📊 SQL  | 📊 Tableau
 📊 Data Visualization | 👥 Team Leadership | 💬 Communication | 🗄️ Organization
 
-Check out my coding projects on GitHub: [https://l-michelle.github.io/Projects/](https://l-michelle.github.io/Projects/)
+Check out my coding projects on GitHub: [https://l-michelle.github.io/portfolio/)
 </p>
