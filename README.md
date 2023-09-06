@@ -1,5 +1,5 @@
 ## Hey there!👋 I'm Michelle L. 
-[![Gmail Badge](https://img.shields.io/badge/-hi.michelle.le@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hi.michelle.le@gmail.com)](mailto:hi.michelle.le@gmail.com) [![Github Badge](https://img.shields.io/badge/-lmichelle-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lmichelle/)](https://www.github.com/lmichelle/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://l-michelle.github.io/Projects//)](https://l-michelle.github.io/Projects//) <p align='left'>
+[![Gmail Badge](https://img.shields.io/badge/-hi.michelle.le@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hi.michelle.le@gmail.com)](mailto:hi.michelle.le@gmail.com) [![Github Badge](https://img.shields.io/badge/-lmichelle-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lmichelle/)](https://www.github.com/lmichelle/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://l-michelle.github.io/Projects//)](https://l-michelle.github.io/portfolio/) <p align='left'>
 
 I am a passionate data analyst with a keen eye for detail and a drive for extracting meaningful insights from complex datasets. My goal is to leverage data to drive informed decision-making and contribute to business success.
 
