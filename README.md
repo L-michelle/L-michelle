@@ -10,14 +10,14 @@ Whether I’m supporting cross-functional teams or managing escalations related 
 
 Outside of work, I’m usually hanging out with my dog, Donut, trying new food spots, or getting in a good workout.
 
-💡Notable Impacts💡: 
-• Billing Analytics Automation: Streamlined reporting by automating data pipelines using Python and Snowflake, reducing manual work and boosting accuracy.
-• Cross-Team Collaboration: Partnered with vendor ops, call centers, and internal stakeholders to enhance billing workflows and improve patient communication.
-• Departmental Expansion Success: Strategically spearheaded the establishment and growth of the neurology and cardiology department, leveraging expertise in program development, resource allocation, and interdisciplinary collaboration to achieve exceptional outcomes.
+💡Notable Impacts💡: <br>
+• Billing Analytics Automation: Streamlined reporting by automating data pipelines using Python and Snowflake, reducing manual work and boosting accuracy.<br>
+• Cross-Team Collaboration: Partnered with vendor ops, call centers, and internal stakeholders to enhance billing workflows and improve patient communication. <br>
+• Departmental Expansion Success: Strategically spearheaded the establishment and growth of the neurology and cardiology department, leveraging expertise in program development, resource allocation, and interdisciplinary collaboration to achieve exceptional outcomes. 
   
 🔧 Skills 🔧
 
-🩺 Healthcare & Veterinary Analytics | 📊 Data Visualization | ⚙️ Automation |🐍 Python | 💾 SQL | ❄️ Snowflake | 📊 Tableau | 📈 Power BI | 👥 Team Leadership & Collaboration | 💬 Communication | 🗄️ Organization | 🟩 Excel | 🔢 Google Sheets 
+🩺 Healthcare & Veterinary Analytics | 📊 Data Visualization | ⚙️ Automation |🐍 Python | 💾 SQL | ❄️ Snowflake | ☁️ Salesforce | 📊 Tableau | 📈 Power BI | 👥 Team Leadership & Collaboration | 💬 Communication | 🗄️ Organization | 🟩 Excel | 🔢 Google Sheets 
 
 If you're seeking a data analyst who combines a strong analytical background with a strong passion for healthcare, I am eager to collaborate on impactful projects that make a difference. Let's connect and make an impact together!
 
