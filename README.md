@@ -2,22 +2,24 @@
 [![Gmail Badge](https://img.shields.io/badge/-hi.michelle.le@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hi.michelle.le@gmail.com)](mailto:hi.michelle.le@gmail.com) [![Github Badge](https://img.shields.io/badge/-L--michelle-grey?style=flat&logo=github&logoColor=white&link=https://github.com/L-michelle/)](https://www.github.com/L-michelle/)
  [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://l-michelle.github.io/Projects//)](https://l-michelle.github.io/portfolio/) <p align='left'>
 
-I am a passionate data analyst with a keen eye for detail and a drive for extracting meaningful insights from complex datasets. My goal is to leverage data to drive informed decision-making and contribute to business success.
+Passionate and impact-driven data analyst with a unique blend of experience in healthcare operations, patient billing, and data analytics. With 9+ years in healthcare and customer service, I specialize in using data to streamline processes, automate workflows, and improve the patient experience.
 
-With over 9+ years of experience in the veterinary field and customer service, I bring a unique perspective to data analysis, combining my expertise in patient care with analytical skills. I have a Bachelor's degree in Health Science from California State University, Fullerton, and I am a recent graduate from the Data Analyst Professional program from TripleTen Online Bootcamp (formally known as Practicum Online Bootcamp).
+My background spans both clinical care and backend systems, which gives me a patient-first mindset when solving data problems. Currently, I work at the intersection of patient billing and analytics—automating reports, parsing data from Salesforce into Snowflake, and creating dashboards and insights that help drive informed decisions across departments. I’m well-versed in Python, SQL, Snowflake, Google Sheets, and Excel, and I regularly build ad-hoc reports and scalable solutions to improve team efficiency.
 
-In my professional journey, I have developed a strong proficiency in Python, SQL, and data visualization tools such as Tableau. I am experienced in conducting exploratory data analysis, identifying trends, and providing actionable insights. 
+Whether I’m supporting cross-functional teams or managing escalations related to patient billing, I approach my work with curiosity, attention to detail, and a deep commitment to creating better experiences for patients and stakeholders alike.
 
-Beyond my technical skills, I am a dedicated and organized professional, adept at managing projects and collaborating effectively with cross-functional teams. I thrive in dynamic and fast-paced environments, where I can apply my problem-solving abilities and communication skills to drive impactful outcomes.
+Outside of work, I’m usually hanging out with my dog, Donut, trying new food spots, or getting in a good workout.
 
-Outside of work, you can find me hanging out with my dog, Pancake, exploring new delicious food finds, or doing something fitness related. 
-
-I am excited about the endless possibilities that data analysis offers and the potential to make a meaningful impact through data-driven decision-making. If you're interested in collaboration or have any questions, feel free to reach out. 
+💡Notable Impacts💡: 
+• Billing Analytics Automation: Streamlined reporting by automating data pipelines using Python and Snowflake, reducing manual work and boosting accuracy.
+• Cross-Team Collaboration: Partnered with vendor ops, call centers, and internal stakeholders to enhance billing workflows and improve patient communication.
+• Departmental Expansion Success: Strategically spearheaded the establishment and growth of the neurology and cardiology department, leveraging expertise in program development, resource allocation, and interdisciplinary collaboration to achieve exceptional outcomes.
   
 🔧 Skills 🔧
 
-📊 Data Analysis | 🐍 Python | 📊 SQL  | 📊 Tableau
-📊 Data Visualization | 👥 Team Leadership | 💬 Communication | 🗄️ Organization
+🩺 Healthcare & Veterinary Analytics | 📊 Data Visualization | ⚙️ Automation |🐍 Python | 💾 SQL | ❄️ Snowflake | 📊 Tableau | 📈 Power BI | 👥 Team Leadership & Collaboration | 💬 Communication | 🗄️ Organization | 🟩 Excel | 🔢 Google Sheets 
+
+If you're seeking a data analyst who combines a strong analytical background with a strong passion for healthcare, I am eager to collaborate on impactful projects that make a difference. Let's connect and make an impact together!
 
 [Link to Coding and Excel Projects](https://github.com/L-michelle/Projects)</br>
 [Link to SQL Portfolio](https://github.com/L-michelle/SQL-Projects)</br>
