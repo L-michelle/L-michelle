@@ -1,10 +1,10 @@
 ## Hey there!👋 I'm Michelle L. 
-[![Gmail Badge](https://img.shields.io/badge/-hi.michelle.le@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hi.michelle.le@gmail.com)](mailto:hi.michelle.le@gmail.com) [![Github Badge](https://img.shields.io/badge/-L--michelle-grey?style=flat&logo=github&logoColor=white&link=https://github.com/L-michelle/)](https://www.github.com/L-michelle/)
+[![Gmail Badge](https://img.shields.io/badge/-hi.michelle.le@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:michelle.le,analyst@gmail.com)](mailto:hi.michelle.le@gmail.com) [![Github Badge](https://img.shields.io/badge/-L--michelle-grey?style=flat&logo=github&logoColor=white&link=https://github.com/L-michelle/)](https://www.github.com/L-michelle/)
  [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://l-michelle.github.io/Projects//)](https://l-michelle.github.io/portfolio/) <p align='left'>
 
 Passionate and impact-driven data analyst with a unique blend of experience in healthcare operations, patient billing, and data analytics. With 10+ years in healthcare and customer service, I specialize in using data to streamline processes, automate workflows, and improve the patient experience.
 
-My background spans both clinical care and backend systems, which gives me a patient-first mindset when solving data problems. Currently, I work at the intersection of patient billing and analytics—automating reports, parsing data from Salesforce into Snowflake, and creating dashboards and insights that help drive informed decisions across departments. I’m well-versed in Python, SQL, Snowflake, Google Sheets, and Excel, and I regularly build ad-hoc reports and scalable solutions to improve team efficiency.
+My background spans both clinical care and backend systems, which gives me a patient-first mindset when solving data problems. I have work at the intersection of patient billing and analytics—automating reports, parsing data from Salesforce into Snowflake, and creating dashboards and insights that help drive informed decisions across departments. I’m well-versed in Python, SQL (Snowflake experience), Google Sheets/Excel, Power Bi, and Tableau. I have built ad-hoc reports, automations, and scalable solutions to improve operational efficiency.
 
 Whether I’m supporting cross-functional teams or managing escalations related to patient billing, I approach my work with curiosity, attention to detail, and a deep commitment to creating better experiences for patients and stakeholders alike.
 
