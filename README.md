@@ -1,5 +1,5 @@
 ## Hey there!👋 I'm Michelle L. 
-[![Gmail Badge](https://img.shields.io/badge/-hi.michelle.le@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:michelle.le,analyst@gmail.com)](mailto:hi.michelle.le@gmail.com) [![Github Badge](https://img.shields.io/badge/-L--michelle-grey?style=flat&logo=github&logoColor=white&link=https://github.com/L-michelle/)](https://www.github.com/L-michelle/)
+[![Gmail Badge](https://img.shields.io/badge/-michelle.le.analyst@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:michelle.le,analyst@gmail.com)](mailto:hi.michelle.le@gmail.com) [![Github Badge](https://img.shields.io/badge/-L--michelle-grey?style=flat&logo=github&logoColor=white&link=https://github.com/L-michelle/)](https://www.github.com/L-michelle/)
  [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://l-michelle.github.io/Projects//)](https://l-michelle.github.io/portfolio/) <p align='left'>
 
 Passionate and impact-driven data analyst with a unique blend of experience in healthcare operations, patient billing, and data analytics. With 10+ years in healthcare and customer service, I specialize in using data to streamline processes, automate workflows, and improve the patient experience.
